@@ -1,0 +1,8 @@
+{
+  "name": "Remix VELOCITY OS — Intelligent Vehicle Rental \u0026 Fleet Management",
+  "description": "Enterprise automotive rental and fleet operations platform with relational DBMS explorer, SQL execution lab, booking lifecycle, and fleet intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
